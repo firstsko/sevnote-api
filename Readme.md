@@ -1,6 +1,6 @@
 SEVNOTE API api.sevnote.com
 ===========================
 
-#Please Vistit
+#Please Visit
 http://www.sevnote.com
 
